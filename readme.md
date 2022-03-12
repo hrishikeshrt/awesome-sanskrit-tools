@@ -50,7 +50,7 @@ Links to repositories or websites that host dictionary data, dictionary front-en
 - [The Sanskrit Heritage Site](https://sanskrit.inria.fr/index.en.html)
 - [Samsaadhanii - A Sanskrit Computational Toolkit (UoHYD)](https://sanskrit.uohyd.ac.in/scl/)
 - [Sanskrit Sandhi and Compound Splitter](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp)
-- [Jnanasangraha] - (https://sanskrit.iitk.ac.in/jnanasangraha/)
+- [Jnanasangraha](https://sanskrit.iitk.ac.in/jnanasangraha/)
 
 ## OCR
 
